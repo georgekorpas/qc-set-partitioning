@@ -1,2 +1,2 @@
 # qc-set-partitioning
-Container for QC Acacemic Problem #14
+Container for QC Academic Problem #14
